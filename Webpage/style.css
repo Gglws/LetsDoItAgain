@@ -1,0 +1,17 @@
+body{ background-color: black; color: white; font-family: Century Gothic, sans-serif; }
+
+header h1 {
+	color: red;
+	font-family: Courier New, Courier, monospace; 
+	font-size: 35px;
+	letter-spacing: 20px;
+	text-align: center;
+}
+
+article div {
+		font-size: 20px;
+		font-weight: normal;
+		letter-spacing: 2px;
+		text-align: center;
+		border: 5px outset red;
+}
